@@ -181,3 +181,4 @@ IO주소도 메모리에 주소에 연장되는 주소를 붙여서.. IO device�
 - Secondary는 비휘발성 Primary는 휘발성 → 전원이 나가면 사라짐 Volatility
 
 - Primary는 CPU가 직접 접근 가능 Secondary는 접근 못함. CPU가 접근 가능하려면 바이트 단위 접근이 가능해야함.
+
